@@ -1,0 +1,14 @@
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\bin\Debug\net6.0\GamesClassLibrary.deps.json
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\bin\Debug\net6.0\GamesClassLibrary.dll
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\bin\Debug\net6.0\GamesClassLibrary.pdb
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\GamesClassLibrary.csproj.AssemblyReference.cache
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\GamesClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\GamesClassLibrary.AssemblyInfoInputs.cache
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\GamesClassLibrary.AssemblyInfo.cs
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\GamesClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\GamesClassLibrary.dll
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\refint\GamesClassLibrary.dll
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\GamesClassLibrary.pdb
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\ref\GamesClassLibrary.dll
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\bin\Debug\net6.0\GamesClassLibrary.runtimeconfig.json
+C:\Users\NikolaiMynkow\source\repos\GamesClassLibrary\GamesClassLibrary\obj\Debug\net6.0\GamesClassLibrary.genruntimeconfig.cache
